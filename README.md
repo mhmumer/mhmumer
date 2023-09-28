@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Typescript, Next JS**
 
-- 👨‍💻 All of my projects are available at [github.com/Umerrawala](github.com/Umerrawala)
+- 👨‍💻 All of my projects are available at [github.com/mhmumer](github.com/mhmumer)
 
 - 📫 How to reach me **rawalaumer@gmail.com**
 
